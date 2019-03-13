@@ -1,6 +1,7 @@
 # Calculator
 
-    I am making a calculator in React.js.  I used ReBorn framework to start my app (https://github.com/sawyerDeveloper/ReBorn)
+    I am making a calculator in React.js.  I used ReBorn framework to start my app 
+    (https://github.com/sawyerDeveloper/ReBorn)
 
 
 
